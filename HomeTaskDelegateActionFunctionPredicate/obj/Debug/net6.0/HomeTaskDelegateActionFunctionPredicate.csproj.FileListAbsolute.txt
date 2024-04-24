@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\bin\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.exe
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\bin\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.deps.json
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\bin\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.runtimeconfig.json
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\bin\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\bin\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.pdb
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\obj\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\obj\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\obj\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\obj\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\obj\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\obj\Debug\net6.0\refint\HomeTaskDelegateActionFunctionPredicate.dll
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\obj\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.pdb
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\obj\Debug\net6.0\HomeTaskDelegateActionFunctionPredicate.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\en son\HomeTaskDelegateActionFunctionPredicate\obj\Debug\net6.0\ref\HomeTaskDelegateActionFunctionPredicate.dll
